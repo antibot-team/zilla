@@ -1,6 +1,6 @@
 {
-  "name": "zilla",
-  "version": "1.0.0",
+  "name": "@antibot/zilla",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "author": "J_DDev <69683068+JayyDoesDev@users.noreply.github.com>",
   "license": "MIT",
@@ -13,7 +13,7 @@
     "typescript": "^5.0.2"
   },
   "repository": {
-    "url": "https://github.com/vultrex/zilla"
+    "url": "https://github.com/antibot-team/zilla"
   },
   "contributors": [
     {
@@ -24,7 +24,7 @@
   "keywords": [
     "snake",
     "collection",
-    "zilla", 
+    "zilla",
     "typescript",
     "microsoft",
     "cache",
