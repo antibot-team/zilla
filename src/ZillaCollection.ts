@@ -51,8 +51,6 @@ export class ZillaCollection<Key, Value> extends Map<Key, Value> {
     return super[Symbol.iterator]();
   }
 
-  public [Symbol.toStringTag]: string = "ZillaCollection";
-
   public static from<Key, Value>(
     iterable: Iterable<[Key, Value]>
   ): ZillaCollection<Key, Value> {
